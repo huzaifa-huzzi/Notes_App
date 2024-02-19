@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "611878790635",
+    "project_id": "notes-3c8ec",
+    "storage_bucket": "notes-3c8ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611878790635:android:852463228742cb182965ae",
+        "android_client_info": {
+          "package_name": "com.example.dart_notes_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNmwo74cvV7y_M8biV7uJdsc_EWhIF2wk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
